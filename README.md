@@ -5,3 +5,5 @@ Works with the Latest wordpress, 5,4. A feminine Stuidopress/ child genesis them
 * Evaline theme change the footer text, use notepad. File: functions.php row: 130 and change it to your own.
 
 * Amelia: Function.php line 165 change it to your own adress!
+
+* Romo theme with: woocommerce, bbpress, still works but never used by me. Updated and not neccecy links taken away, tested with the latest ofcouse:)
