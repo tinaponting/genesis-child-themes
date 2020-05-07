@@ -7,3 +7,10 @@ Works with the Latest wordpress, 5,4. A feminine Stuidopress/ child genesis them
 * Amelia: Function.php line 165 change it to your own adress!
 
 * Romo theme with: woocommerce, bbpress, still works but never used by me. Updated and not neccecy links taken away, tested with the latest ofcouse:)
+
+* Travel theme: Function.php change: 159 to your own domain!
+
+
+-*
+For icons: For Icons best use: https://www.favicon-generator.org
+
