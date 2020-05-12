@@ -12,6 +12,8 @@ Works with the Latest wordpress, 5,4. A feminine Stuidopress/ child genesis them
 
 * Mackensey: bg-kenzey.gif, if you want someone else: Just change it to: bg-kenzey.gif, I uplades som alternative in images folder.  ROW: 89 change of footer text.
 
+*  Purple- haze: It is purple!
+
 -*
 For icons: For Icons best use: https://www.favicon-generator.org
 Use: Notepad + for changes!
