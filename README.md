@@ -14,6 +14,19 @@ Works with the Latest wordpress, 5,4. A feminine Stuidopress/ child genesis them
 
 *  Purple- haze: It is purple!
 
+:::::::::::::::::::::::::::::::::::
+Black Themes:
+* Black summer and Blacklight are the most commontheme amongst female bloggers.
+
+: Blacksummer - square corners.
+Change row 82, to your own domain.
+
+: Blacknight - with light rounded corners.
+Change row 105 to your owm domain.
+
+* Both: WooCommerce
+::::::::::::::::::::::::::::::::::::::
+
 -*
 For icons: For Icons best use: https://www.favicon-generator.org
 Use: Notepad + for changes!
