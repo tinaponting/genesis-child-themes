@@ -27,7 +27,10 @@ Change row 105 to your owm domain.
 * Both: WooCommerce
 ::::::::::::::::::::::::::::::::::::::
 
--*
+* Plush theme: A feminine theme with woocommerce. Very useful book bloggers. Bought by me, but I didn´t use it!
+
+------------------------------------------
+*
 For icons: For Icons best use: https://www.favicon-generator.org
 Use: Notepad + for changes!
 
