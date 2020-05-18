@@ -29,6 +29,8 @@ Change row 105 to your owm domain.
 
 * Plush theme: A feminine theme with woocommerce. Very useful book bloggers. Bought by me, but I didn´t use it!
 
+* Simply Gorgeous: Change row 94 to your own text! Note: I couldn`t deltale all the text in the footer!
+
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
