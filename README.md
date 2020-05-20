@@ -15,6 +15,7 @@ Works with the Latest wordpress, 5,4. A feminine Stuidopress/ child genesis them
 *  Purple- haze: It is purple!
 
 :::::::::::::::::::::::::::::::::::
+
 Black Themes:
 * Black summer and Blacklight are the most commontheme amongst female bloggers.
 
@@ -25,6 +26,7 @@ Change row 82, to your own domain.
 Change row 105 to your owm domain.
 
 * Both: WooCommerce
+
 ::::::::::::::::::::::::::::::::::::::
 
 * Plush theme: A feminine theme with woocommerce. Very useful book bloggers. Bought by me, but I didn´t use it!
