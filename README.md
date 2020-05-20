@@ -36,6 +36,8 @@ Change row 105 to your owm domain.
 * Wander theme: Best for photoblogger or portfolio.
 
 * Rowan: woocommerce and gallery.
+
+* Joanna feminine theme.
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
