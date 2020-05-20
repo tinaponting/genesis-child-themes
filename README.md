@@ -33,6 +33,7 @@ Change row 105 to your owm domain.
 
 * Wander theme: Best for photoblogger or portfolio.
 
+* Rowan: woocommerce and gallery.
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
@@ -41,3 +42,5 @@ Use: Notepad + for changes!
 * Tested with:
 Genesis Framework: Version: 3.3.2+
 Wordpress: 5.4.1+
+
+* The themes are somewhere in time bought by:)
