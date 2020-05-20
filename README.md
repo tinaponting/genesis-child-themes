@@ -38,6 +38,7 @@ Change row 105 to your owm domain.
 * Rowan: woocommerce and gallery.
 
 * Joanna feminine theme.
+* Foxglove feminine theme
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
