@@ -31,6 +31,8 @@ Change row 105 to your owm domain.
 
 * Simply Gorgeous: Change row 94 to your own text! Note: I couldn`t deltale all the text in the footer!
 
+* Wander theme: Best for photoblogger or portfolio.
+
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
