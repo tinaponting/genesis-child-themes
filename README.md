@@ -12,8 +12,6 @@ Works with the Latest wordpress, 5,4. A feminine Stuidopress/ child genesis them
 
 * Mackensey: bg-kenzey.gif, if you want someone else: Just change it to: bg-kenzey.gif, I uplades som alternative in images folder.  ROW: 89 change of footer text.
 
-*  Purple- haze: It is purple!
-
 :::::::::::::::::::::::::::::::::::
 
 Black Themes:
@@ -30,17 +28,15 @@ Change row 105 to your owm domain.
 ::::::::::::::::::::::::::::::::::::::
 
 * Plush theme: A feminine theme with woocommerce. Very useful book bloggers. Bought by me, but I didn´t use it!
-
 * Simply Gorgeous: Change row 94 to your own text! Note: I couldn`t deltale all the text in the footer!
-
 * Wander theme: Best for photoblogger or portfolio.
-
 * Rowan: woocommerce and gallery.
-
 * Joanna feminine theme.
 * Foxglove feminine theme.
 * Fashion Avenue, Genesis child theme for fashion bloggers
 * Coffebreak bloggers theme.
+* Charlie, very simple and basic theme for bloggers e.t.c
+*  Purple- haze: It is purple!
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
