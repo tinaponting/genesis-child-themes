@@ -40,6 +40,7 @@ Change row 105 to your owm domain.
 * Joanna feminine theme.
 * Foxglove feminine theme.
 * Fashion Avenue, Genesis child theme for fashion bloggers
+* Coffebreak bloggers theme.
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
