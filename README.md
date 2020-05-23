@@ -36,7 +36,7 @@ Change row 105 to your owm domain.
 * Fashion Avenue, Genesis child theme for fashion bloggers
 * Coffebreak bloggers theme.
 * Charlie, very simple and basic theme for bloggers e.t.c
-*  Purple- haze: It is purple!
+* Purple- haze: It is purple!
 * Oh so basic, a very simpel blog theme.
 * Paper: A blogger theme, to smal for my taste, but someone else maybe like it!
 ------------------------------------------
