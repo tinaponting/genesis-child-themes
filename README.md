@@ -43,6 +43,7 @@ Change row 105 to your owm domain.
 * Lemagaz: Magazine theme
 * Nuage:  A very common theme amongst female bloggers!
 * Murphy:  A basic theme for female bloggers!
+* Linda:  Another common theme among female bloggers.
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
