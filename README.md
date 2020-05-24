@@ -42,6 +42,7 @@ Change row 105 to your owm domain.
 * Jono: simpel theme.
 * Lemagaz: Magazine theme
 * Nuage:  A very common theme amongst female bloggers!
+* Murphy:  A basic theme for female bloggers!
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
