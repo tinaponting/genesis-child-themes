@@ -41,6 +41,7 @@ Change row 105 to your owm domain.
 * Paper: A blogger theme, to smal for my taste, but someone else maybe like it!
 * Jono: simpel theme.
 * Lemagaz: Magazine theme
+* Nuage:  A very common theme amongst female bloggers!
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
