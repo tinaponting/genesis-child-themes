@@ -40,6 +40,7 @@ Change row 105 to your owm domain.
 * Oh so basic, a very simpel blog theme.
 * Paper: A blogger theme, to smal for my taste, but someone else maybe like it!
 * Jono: simpel theme.
+* Lemagaz: Magazine theme
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
