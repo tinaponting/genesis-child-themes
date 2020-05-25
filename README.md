@@ -44,6 +44,11 @@ Change row 105 to your owm domain.
 * Nuage:  A very common theme amongst female bloggers!
 * Murphy:  A basic theme for female bloggers!
 * Linda:  Another common theme among female bloggers.
+* Afresco, a simpel blogtheme
+* Blogtastic, Magazine theme
+* Cacao, A common theme among female bloggers.
+* MinimalistTheme, Another female blogger theme with color
+* Samantha, Another one female blogger theme
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
