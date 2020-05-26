@@ -49,6 +49,14 @@ Change row 105 to your owm domain.
 * Cacao, A common theme among female bloggers.
 * MinimalistTheme, Another female blogger theme with color
 * Samantha, Another one female blogger theme
+* Nonprofit Pro: A nonprofit theme.A free theme If I remember it right.
+* Tech magazine: A magazine theme.
+* Runway: 3 rows fashion or news theme.
+* Royal diamonds: A common theme amongst female bloggers.
+* Hello Kate: A common theme for female bloggers*
+* Little: A simpel blogger theme withe a female touch.
+* Blogge:3 rows magazine theme for all stuffs to blog about.
+
 ------------------------------------------
 *
 For icons: For Icons best use: https://www.favicon-generator.org
