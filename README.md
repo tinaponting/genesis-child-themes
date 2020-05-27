@@ -56,6 +56,8 @@ Change row 105 to your owm domain.
 * Hello Kate: A common theme for female bloggers*
 * Little: A simpel blogger theme withe a female touch.
 * Blogge:3 rows magazine theme for all stuffs to blog about.
+SEOgen: Magazine or news blogger theme
+Lovely: A common theme for female blogger or a man?
 
 ------------------------------------------
 *
