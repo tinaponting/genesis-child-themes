@@ -59,7 +59,13 @@ Change row 105 to your owm domain.
 * SEOgen: Magazine or news blogger theme
 * Lovely: A common theme for female blogger or a man?
 * Accessible pro: Magazine or Blog/ Blog theme, easy to make it your own, With: genesis super customizer or sommething like that.
-* Simply noted: Blog or photo them or both. 
+* Simply noted: Blog or photo them or both.
+* Birdie: A simpel blogtheme.
+* Hotwoo: A magazine/news theme.
+* ELACSAD: Magazine / News theme.
+* Link: A Magazine /News theme.
+* Hustle: A common feminine theme with woocommerce support.
+* Blom:A simpel theme works well for blogging.
 
 ------------------------------------------
 *
