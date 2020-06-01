@@ -21,7 +21,7 @@ Change row 105 to your owm domain.
 * Both: WooCommerce
 
 ::::::::::::::::::::::::::::::::::::::
-
+* Coastal: A portfolio /photo theme. (never used by me, I wasn´t able to get it work, thou I am blogger!
 * Plush theme: A feminine theme with woocommerce. Very useful book bloggers. Bought by me, but I didn´t use it!
 * Simply Gorgeous: Change row 94 to your own text! Note: I couldn`t deltale all the text in the footer!
 * Wander theme: Best for photoblogger or portfolio.
