@@ -60,7 +60,9 @@ Change row 105 to your owm domain.
 * Hustle: A common feminine theme with woocommerce support.
 * Blom:A simpel theme works well for blogging.
 *  Beauty  Theme, A common female design in black and white.
-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
 *
 For icons: For Icons best use: https://www.favicon-generator.org
 Use: Notepad + for changes!
@@ -71,3 +73,10 @@ Wordpress: 5.4.1+
 
 * The themes are somewhere in time bought by:)
 * To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
+
+
+::::::::::::::::::::::::::::::
+PART 2:
+ * PART 2: https://github.com/tinaponting/Genesis-child-themes-2
+ 
+::::::::::::::::::::::::::::::
