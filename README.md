@@ -2,25 +2,22 @@
 Genesis child themes who are  Abandoned. But still good to use.
 Works with the Latest wordpress, 5,4. and Latest genesis framework. 
 
+:::::::::::::::::::::::::::::::::::
+
+Black Themes:
+* Black summer and Blacklight are the most commontheme amongst female bloggers.
+: Blacksummer - square corners.
+Change row 82, to your own domain.
+: Blacknight - with light rounded corners.
+Change row 105 to your owm domain.
+* Both: WooCommerce
+
+::::::::::::::::::::::::::::::::::::::
 * Evaline theme:  Beautiful theme. 
 * Amelia: Female theme, common theme.
 * Romo theme with: woocommerce, bbpress, still works but never used by me. Updated and not neccecy links taken away.
 * Travel theme: Photo or travel blog theme
 * Mackensey: bg-kenzey.gif, if you want someone else: Just change it to: bg-kenzey.gif.
-:::::::::::::::::::::::::::::::::::
-
-Black Themes:
-* Black summer and Blacklight are the most commontheme amongst female bloggers.
-
-: Blacksummer - square corners.
-Change row 82, to your own domain.
-
-: Blacknight - with light rounded corners.
-Change row 105 to your owm domain.
-
-* Both: WooCommerce
-
-::::::::::::::::::::::::::::::::::::::
 * Minsgens: Magazine/news theme. would be good for fashion bloggers too. Use the sides for afflite?
 * Coastal: A portfolio /photo theme. (never used by me, I wasn´t able to get it work, thou I am blogger!
 * Plush theme: A feminine theme with woocommerce. Very useful book bloggers. Bought by me, but I didn´t use it!
