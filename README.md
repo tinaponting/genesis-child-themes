@@ -13,6 +13,7 @@ Change row 105 to your owm domain.
 * Both: WooCommerce
 
 ::::::::::::::::::::::::::::::::::::::
+
 * Evaline theme:  Beautiful theme. 
 * Amelia: Female theme, common theme.
 * Romo theme with: woocommerce, bbpress, still works but never used by me. Updated and not neccecy links taken away.
@@ -59,7 +60,8 @@ Change row 105 to your owm domain.
 * Link: A Magazine /News theme.
 * Hustle: A common feminine theme with woocommerce support.
 * Blom:A simpel theme works well for blogging.
-*  Beauty  Theme, A common female design in black and white.
+* Beauty  Theme, A common female design in black and white.
+* Style Stories: A coomon theme for female bloggers.
 ------------------------------------------------------------
 ------------------------------------------------------------
 
