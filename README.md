@@ -2,6 +2,8 @@
 Genesis child themes who are  Abandoned. But still good to use.
 Works with the Latest wordpress, 5,4. and Latest genesis framework. 
 
+IMPORTANT: Take notepad + and take style.css and delate: Updated URL! not my domain anymore!
+
 :::::::::::::::::::::::::::::::::::
 
 Black Themes:
