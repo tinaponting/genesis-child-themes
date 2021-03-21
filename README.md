@@ -73,7 +73,7 @@ Use: Notepad + for changes!
 
 * Tested with:
 Genesis Framework: Version: 3.3.3+
-Wordpress: 5.6.1+
+Wordpress: 5.7+
 
 * The themes are somewhere in time bought by:)
 * To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
