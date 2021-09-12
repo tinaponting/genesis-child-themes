@@ -82,7 +82,8 @@ Wordpress: 5.8+
 
 
 ::::::::::::::::::::::::::::::
-PART:
+PARTs:
+
 PART 1: https://github.com/tinaponting/Genesis-child-themes
 
 PART 2: https://github.com/tinaponting/Genesis-child-themes-2
