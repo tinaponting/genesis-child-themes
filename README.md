@@ -4,6 +4,8 @@ Works with the Latest wordpress, 5,4. and Latest genesis framework.
 
 IMPORTANT: Take notepad + and take style.css and delate: Updated URL! not my domain anymore!
 
+Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.8+
+
 :::::::::::::::::::::::::::::::::::
 
 Black Themes:
